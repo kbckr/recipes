@@ -1,5 +1,5 @@
 # Guacamole
 ## Ingredients
 *some stuff
-**some more stuff
+**some other stuff
 ## Instructions
